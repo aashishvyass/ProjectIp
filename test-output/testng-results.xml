@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38" started-at="2018-01-30T05:34:15Z" finished-at="2018-01-30T05:34:15Z">
+  <suite name="Suite" duration-ms="42" started-at="2018-01-30T05:37:26Z" finished-at="2018-01-30T05:37:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38" started-at="2018-01-30T05:34:15Z" finished-at="2018-01-30T05:34:15Z">
+    <test name="Test" duration-ms="42" started-at="2018-01-30T05:37:26Z" finished-at="2018-01-30T05:37:26Z">
       <class name="team.project.firstTest">
-        <test-method status="FAIL" signature="jenTest()[pri:0, instance:team.project.firstTest@5f2108b5]" name="jenTest" duration-ms="16" started-at="2018-01-30T11:04:15Z" finished-at="2018-01-30T11:04:15Z">
+        <test-method status="FAIL" signature="jenTest()[pri:0, instance:team.project.firstTest@5f2108b5]" name="jenTest" duration-ms="14" started-at="2018-01-30T11:07:26Z" finished-at="2018-01-30T11:07:26Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [gfg] but found [dsd]]]>
@@ -51,6 +51,6 @@
           </reporter-output>
         </test-method> <!-- jenTest -->
       </class> <!-- team.project.firstTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
